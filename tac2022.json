@@ -1,0 +1,13 @@
+{
+	"name": "Toshinden ARM Challenge",
+	"version": "22.1021",
+	"packages": {
+		"arm_tac2022": {
+			"description": "Pack containing TAC 2022 tracks",
+			"version": 22.1021,
+			"checksum": "ee91e107f4138e439ce43b459345992139dc25c59c2169c4c2fd272369460779",
+			"url": "https://vas0sky.github.io/arm-tac2022/arm_tac2022.7z",
+     	"file": "arm_tac2022.7z"
+		}
+	}
+}
